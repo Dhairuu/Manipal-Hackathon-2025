@@ -1,0 +1,210 @@
+{
+    "Healthcare and Medical": {
+        "Doctors": {
+            "code": 8011,
+            "description": "Medical Services and Doctors",
+            "need": "True"
+        },
+        "Dentists": {
+            "code": 8021,
+            "description": "Dentists and Orthodontists",
+            "need": "True"
+        },
+        "Chiropractors": {
+            "code": 8041,
+            "description": "Chiropractors",
+            "need": "False"
+        },
+        "Optometrists": {
+            "code": 8042,
+            "description": "Optometrists, Ophthalmologists",
+            "need": "True"
+        },
+        "Hospitals": {
+            "code": 8062,
+            "description": "Hospitals",
+            "need": "True"
+        },
+        "Medical Labs": {
+            "code": 8071,
+            "description": "Medical and Dental Laboratories",
+            "need": "True"
+        },
+        "Nursing and Care": {
+            "code": 8050,
+            "description": "Nursing and Personal Care Facilities",
+            "need": "True"
+        }
+    },
+    "Food and Beverages": {
+        "Restaurants": {
+            "code": 5812,
+            "description": "Eating Places and Restaurants",
+            "need": "False"
+        },
+        "Fast Food": {
+            "code": 5814,
+            "description": "Fast Food Restaurants",
+            "need": "False"
+        },
+        "Bars and Taverns": {
+            "code": 5813,
+            "description": "Drinking Places (Alcoholic Beverages)",
+            "need": "False"
+        },
+        "Caterers": {
+            "code": 5811,
+            "description": "Caterers",
+            "need": "False"
+        },
+        "Grocery Stores": {
+            "code": 5411,
+            "description": "Grocery Stores and Supermarkets",
+            "need": "True"
+        }
+    },
+    "Delivery and Transportation": {
+        "Courier Services": {
+            "code": 4215,
+            "description": "Courier Services - Air or Ground",
+            "need": "True"
+        },
+        "Local Delivery": {
+            "code": 4214,
+            "description": "Motor Freight Carriers and Trucking",
+            "need": "True"
+        },
+        "Postal Services": {
+            "code": 9402,
+            "description": "Postal Services – Government Only",
+            "need": "True"
+        },
+        "Food Delivery": {
+            "code": 5812,
+            "description": "Food delivery services",
+            "need": "True"
+        }
+    },
+    "Financial Services": {
+        "Banks": {
+            "code": 6011,
+            "description": "Financial Institutions - Manual Cash Disbursements",
+            "need": "True"
+        },
+        "ATM": {
+            "code": 6012,
+            "description": "Financial Institutions – Merchandise and Services",
+            "need": "True"
+        },
+        "Brokerage": {
+            "code": 6211,
+            "description": "Security Brokers/Dealers",
+            "need": "False"
+        },
+        "Insurance": {
+            "code": 6300,
+            "description": "Insurance Sales, Underwriting, and Premiums",
+            "need": "False"
+        }
+    },
+    "Government Services": {
+        "Tax Payments": {
+            "code": 9311,
+            "description": "Tax Payments",
+            "need": "False"
+        },
+        "Courts and Legal": {
+            "code": 9211,
+            "description": "Court Costs, Including Alimony and Child Support",
+            "need": "True"
+        },
+        "Government Services": {
+            "code": 9399,
+            "description": "Government Services (Not Classified Elsewhere)",
+            "need": "True"
+        }
+    },
+    "Education": {
+        "Primary and Secondary Schools": {
+            "code": 8211,
+            "description": "Elementary and Secondary Schools",
+            "need": "True"
+        },
+        "Colleges and Universities": {
+            "code": 8220,
+            "description": "Colleges, Universities, Professional Schools, and Junior Colleges",
+            "need": "True"
+        },
+        "Vocational and Technical Training": {
+            "code": 8249,
+            "description": "Vocational Schools and Trade Schools",
+            "need": "True"
+        },
+        "Tutoring and Exam Prep": {
+            "code": 8299,
+            "description": "Educational Services – Not Elsewhere Classified",
+            "need": "True"
+        }
+    },
+    "Entertainment": {
+        "Movie Theaters": {
+            "code": 7832,
+            "description": "Motion Picture Theaters",
+            "need": "False"
+        },
+        "Sports Venues": {
+            "code": 7941,
+            "description": "Commercial Sports, Professional Teams, and Clubs",
+            "need": "False"
+        },
+        "Amusement Parks": {
+            "code": 7996,
+            "description": "Amusement Parks, Carnivals, and Circuses",
+            "need": "False"
+        },
+        "Games and Arcades": {
+            "code": 7994,
+            "description": "Video Game Arcades and Establishments",
+            "need": "False"
+        }
+    },
+    "Automotive": {
+        "Car Manufacturers": {
+            "code": 5511,
+            "description": "Automobile Manufacturers",
+            "need": "False"
+        },
+        "Car Dealerships": {
+            "code": 5511,
+            "description": "Sales of New and Used Cars",
+            "need": "False"
+        },
+        "Auto Repair Shops": {
+            "code": 7538,
+            "description": "Automotive Service Shops",
+            "need": "True"
+        },
+        "Auto Parts Stores": {
+            "code": 5533,
+            "description": "Automotive Parts and Accessories Stores",
+            "need": "True"
+        },
+        "Car Rentals": {
+            "code": 7512,
+            "description": "Car Rental Agencies",
+            "need": "False"
+        },
+        "Gas Stations": {
+            "code": 5541,
+            "description": "Service Stations (with or without ancillary services)",
+            "need": "True"
+        }
+    },
+    "Other": {
+        "Unknown": {
+            "code": 0,
+            "description": "Unknown category",
+            "need": "False"
+        }
+    }
+}
